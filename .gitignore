@@ -21,3 +21,35 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+/.gradle/buildOutputCleanup/cache.properties
+/.gradle/checksums/checksums.lock
+/.gradle/6.5/executionHistory/executionHistory.bin
+/.gradle/6.5/executionHistory/executionHistory.lock
+/.gradle/6.5/fileHashes/fileHashes.bin
+/.gradle/6.5/fileHashes/fileHashes.lock
+/.gradle/6.5/gc.properties
+/.gradle/vcs-1/gc.properties
+/.idea/gradle.xml
+/gradle/wrapper/gradle-wrapper.properties
+/gradlew
+/gradlew.bat
+/.gradle/6.5/fileChanges/last-build.bin
+/education_qa/build/test-results/test/binary/output.bin
+/education_qa/build/test-results/test/binary/output.bin.idx
+/.gradle/buildOutputCleanup/outputFiles.bin
+/education_qa/build/test-results/test/binary/results.bin
+/settings.gradle
+/education_qa/build/tmp/compileTestJava/source-classes-mapping.txt
+/education_qa/build/test-results/test/TEST-test.GoogleTests.xml
+/.idea/workspace.xml
+/education_qa/build/reports/tests/test/js/report.js
+/education_qa/build/reports/tests/test/index.html
+/.gradle/6.5/javaCompile/javaCompile.lock
+/education_qa/build/reports/tests/test/classes/test.GoogleTests.html
+/.gradle/6.5/fileContent/fileContent.lock
+/.gradle/6.5/javaCompile/classAnalysis.bin
+/education_qa/build/reports/tests/test/css/base-style.css
+/education_qa/build/reports/tests/test/packages/test.html
+/.gradle/6.5/javaCompile/taskHistory.bin
+/education_qa/build/reports/tests/test/css/style.css
